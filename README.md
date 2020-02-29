@@ -1,4 +1,4 @@
-# PyScanner
+# PyScanner v1.0
 
 I wrote this tool as an alternative of netdiscover tool, since I play CTF from VulnHub, sometimes I need to get the IP address
 of the target machine on my own, and that's when I came up with this idea
