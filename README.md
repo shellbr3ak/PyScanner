@@ -17,3 +17,4 @@ python3 pyscan.py -r IP -s scan_type
 
 # Note: 
 This tool works with python3 only
+![Alt text](./pyscan.png)
