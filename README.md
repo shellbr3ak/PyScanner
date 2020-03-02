@@ -4,6 +4,7 @@ I wrote this tool as an alternative of netdiscover tool, since I play CTF from V
 of the target machine on my own, and that's when I came up with this idea
 
 -- The tool pings all the devices on the same network and prints the IPs of the accessible macines --
+
 -- Additional port scanning can be done as well --
 
 # Usage:
@@ -17,4 +18,5 @@ python3 pyscan.py -r IP -s scan_type
 
 # Note: 
 This tool works with python3 only
+
 ![Alt text](./pyscan.png)
